@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="search">Search</string>
+    <string name="open_note">Open note</string>
+    <string name="type_note_here">Type note here..</string>
+    <string name="whoa_you_don_t_have_any_saved_notes_yet">You don\'t have any notes here !</string>
+    <string name="Are_you_sure_you_wan_to_delete">Are you sure you want to delete this note ?</string>
+
+
+    <!--//ads id-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="appOpen">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="banner"> ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_ads">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="rewarded_interstitial">ca-app-pub-3940256099942544/5354046379</string>
+</resources>
